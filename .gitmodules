@@ -1,3 +1,6 @@
 [submodule "mc_moon_world"]
 	path = mc_moon_world
 	url = https://github.com/moondane/mc_moon_world.git
+[submodule "mc_pixel_world"]
+	path = mc_pixel_world
+	url = https://github.com/moondane/mc_pixel_world.git
